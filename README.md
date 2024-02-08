@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Upesh Jeengar</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=upeshjeengar&label=Profile%20views&color=0e75b6&style=flat" alt="upeshjeengar" /> </p>
 
 - 🌱 I’m currently learning **Full Stack, Data Science**
 
@@ -20,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=upeshjeengar&show_icons=true&locale=en&layout=compact" alt="upeshjeengar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=upeshjeengar&show_icons=true&locale=en" alt="upeshjeengar" /></p>
-
