@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Upesh Jeengar</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 - 🌱 I’m currently learning **Full Stack, Data Science**
 
