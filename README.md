@@ -11,8 +11,9 @@
 <a href="https://kaggle.com/upeshjeengar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="upeshjeengar" height="30" width="40" /></a>
 <a href="https://instagram.com/upeshjeengar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="upeshjeengar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@upeshjeengar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/upeshjeengar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jeengarupesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeengarupesh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jeengarupesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jeengarupesh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jeengarupesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeengarupesh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jeengarupesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jeengarupesh" height="30" width="40" /></a>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=upeshjeengar)](https://github.com/ryo-ma/github-profile-trophy)
